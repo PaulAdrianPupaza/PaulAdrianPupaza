@@ -12,8 +12,8 @@ Apasionado por el desarrollo web, la programación de sistemas y la creación de
 - Coming soon...
 
   ### 📊 GitHub Stats
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulAdrianPupza&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulAdrianPupza&layout=compact&theme=radical)
+![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaulAdrianPupaza&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulAdrianPupaza&layout=compact&theme=radical)
 
 
 
