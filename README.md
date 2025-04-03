@@ -1,25 +1,30 @@
-### Hola! Soy Paul Pupaza 👋  
-Estudiante de 3º de Ingeniería Informática 💻  
-Apasionado por el desarrollo web, la programación de sistemas y la creación de proyectos con impacto social 🚀
+Hello! I'm Paul Pupaza 👋
+3rd-year Computer Engineering student 💻
+Passionate about web development, system programming, and creating projects with social impact 🚀
 
-### 🛠 Tecnologías que manejo:
-- Lenguajes: C, C++, Java, JavaScript
-- Frontend: React, Tailwind CSS, Next.js
-- Backend: Node.js, PHP (con Composer), MySQL
-- Herramientas: Docker, Git, IntelliJ, VSCode
+🛠 Technologies I work with:
+Programming Languages: C, C++, Java, JavaScript
 
-- ### 🚀 Proyectos destacados:
-- Coming soon...
+Frontend: React, Tailwind CSS, Next.js
 
-- - 🔭 I’m currently working on ...
- 
-### 🌱 En lo que creo:
-- La tecnología puede mejorar el mundo 🌍
-- El software debe ser inclusivo y sostenible ♻️
-- Siempre aprendiendo y compartiendo 🤝
+Backend: Node.js, PHP (with Composer), MySQL
 
-### 📫 How to reach me: 
-Me podés contactar a través de [LinkedIn](https://www.linkedin.com/in/paul-adrian-pupaza-39697924b/) o por correo electrónico a paulpupaza004@gmail.com
+Tools: Docker, Git, IntelliJ, VSCode, Android Studio
+
+🚀 Highlighted Projects:
+Coming soon...
+
+🔭 I’m currently working on ...
+
+🌱 What I believe in:
+Technology can improve the world 🌍
+
+Software should be inclusive and sustainable ♻️
+
+Always learning and sharing 🤝
+
+📫 How to reach me:
+You can contact me through LinkedIn or by email at paulpupaza004@gmail.com
 
 <!--
 **PaulAdrianPupaza/PaulAdrianPupaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
