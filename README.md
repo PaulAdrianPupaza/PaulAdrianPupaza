@@ -13,13 +13,13 @@ Apasionado por el desarrollo web, la programación de sistemas y la creación de
 
 - - 🔭 I’m currently working on ...
  
- ### 🌱 En lo que creo:
+### 🌱 En lo que creo:
 - La tecnología puede mejorar el mundo 🌍
 - El software debe ser inclusivo y sostenible ♻️
 - Siempre aprendiendo y compartiendo 🤝
 
-###📫 How to reach me: 
-Me podés contactar a través de [LinkedIn (link](https://www.linkedin.com/in/paul-adrian-pupaza-39697924b/) o por correo electrónico a paulpupaza004@gmail.com
+### 📫 How to reach me: 
+Me podés contactar a través de [LinkedIn](https://www.linkedin.com/in/paul-adrian-pupaza-39697924b/) o por correo electrónico a paulpupaza004@gmail.com
 
 <!--
 **PaulAdrianPupaza/PaulAdrianPupaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
