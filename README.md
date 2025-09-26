@@ -1,5 +1,5 @@
 ### Hello! I'm Paul Pupaza 👋  
-3rd-year Computer Engineering student 💻  
+4rd-year Computer Engineering student 💻  
 Passionate about web development, system programming, and creating projects with social impact 🚀
 
 ### 🛠 Technologies I work with:
@@ -11,7 +11,7 @@ Passionate about web development, system programming, and creating projects with
 ### 🚀 Highlighted Projects:
 - Coming soon...
 
-- - 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...
 
 ### 🌱 What I believe in:
 - Technology can improve the world 🌍
